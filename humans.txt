@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    David R Poindexter III -- Creator -- @mtheoryx
+
+# THANKS
+
+    W3C
+
+# TECHNOLOGY COLOPHON
+
+    HTML5
